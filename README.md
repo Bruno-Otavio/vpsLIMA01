@@ -1,3 +1,3 @@
 # Atividade Somativa LIMA
 
-A "Travel World" é uma agência de viagens renomada, especializada em proporcionar experiências únicas e inesquecíveis para os amantes de aventuras e culturas ao redor do mundo. A empresa está buscando expandir sua presença online, atraindo um público global através de um site atraente e você como desenvolvedor front-end foi designado a criar o site baseado no layout a seguir.
+A "Travel World" é uma agência de viagens renomada, especializada em proporcionar experiências únicas e inesquecíveis para os amantes de aventuras e culturas ao redor do mundo.
